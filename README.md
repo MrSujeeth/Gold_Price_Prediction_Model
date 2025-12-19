@@ -132,7 +132,7 @@ Help analyze market correlations
 
 Support research and investment decisions
 
-**Conclusion**
+Conclusion
 
 This Gold Price Prediction Model provides a high-accuracy financial forecasting tool using machine learning.
 It demonstrates how market indicators like Silver, Oil, and Currency price impact Gold trends.
