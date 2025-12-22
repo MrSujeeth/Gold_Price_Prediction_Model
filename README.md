@@ -103,15 +103,15 @@ Split data into:
 
 Random state for reproducibility
 
-**🏋️ Model Training**
+🏋️ Model Training
 
 Random Forest Regressor trained on training data
 
-**🧪 Model Evaluation**
+🧪 Model Evaluation
 
 Evaluated using R² Score
 
-**📈 Model Performance**
+📈 Model Performance
 
 🥇 R² Score: ~0.98 – 0.99
 
@@ -119,7 +119,7 @@ Evaluated using R² Score
 
 🟰 Predicted values closely match actual values
 
-**🔮 Prediction System**
+🔮 Prediction System
 
 The trained model can:
 
@@ -129,7 +129,7 @@ The trained model can:
 
 📈 Support research & investment decisions
 
-**🏁 Conclusion**
+🏁 Conclusion
 
 This Gold Price Prediction Model provides a high-accuracy financial forecasting tool using Machine Learning.
 It showcases how indicators like Silver, Oil, and Currency rates impact Gold price behavior.
