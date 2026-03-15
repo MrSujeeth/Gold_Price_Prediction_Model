@@ -3,7 +3,7 @@
 This project is a Machine Learning-based Gold Price Prediction System developed using Python and Random Forest Regression.
 The model predicts the future price of Gold (GLD index value) based on financial indicators.
 
-**📌 Project Overview**
+**Project Overview**
 
 Gold is one of the most important investment assets, and its price depends on multiple market factors.
 This project analyzes a historical Gold dataset and builds a predictive model using regression techniques.
